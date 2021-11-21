@@ -1,2 +1,3 @@
-#Andrew Choi
-**bold text**
+**#Andrew Choi**
+**Cornell CS**
+
